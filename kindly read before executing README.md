@@ -17,4 +17,6 @@ in venom.html you will ge the description about the movie.
 
 As amazon prime video do not allow user to browse movie without login(so thesed way the completion of task was done).
 
+Task Screen shot is also provided.
+
 thank you so much.
