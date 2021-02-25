@@ -1,6 +1,8 @@
 # Amazon-prime-ui-ACC-
 this file contains :- Amazon Prime Video UI,Sign-In page,Movies UI,Movies Description.
 
+kindly open the first folder
+
 amazon clone ui 
 
 how to execute the webpage
